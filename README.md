@@ -1,1 +1,2 @@
-# Project_2
+House Prices: Advanced Regression Techniques.
+Predict sales prices and practice feature engineering
